@@ -27,5 +27,5 @@ These were scratching my own itch but I also have a couple of open source packag
 
 ### Socials
 
-* [BSky](https://bsky.com/mikebarlow.uk)
-* [Twitter/X](https://x.com/mikebarlow) (I will still always refer to it as Twitter.
+* [https://bsky.app/profile/mikebarlow.uk](https://bsky.app/profile/mikebarlow.uk)
+* [https://x.com/mikebarlow](https://x.com/mikebarlow) (Although it will always still be Twitter to me)
