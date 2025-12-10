@@ -9,7 +9,8 @@ Currently building things for the Radio and Audio industry with [Aiir](https://a
 As a lot of developers do, I dabble with some side projects!
 
 * Server and Website Management tools with [ServerAuth](https://serverauth.com). 🛠️
-* Building static sites from markdown with [Hosted.md](https://hosted.md). ☁️ 
+* Building static sites from markdown with [Hosted.md](https://hosted.md). ☁️
+* Converting html to pdfs with [GeneratePDFs.com](https://generatepdfs.com). 📈 
 
 ### Open source
 
